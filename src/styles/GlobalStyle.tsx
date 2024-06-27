@@ -17,7 +17,7 @@ img {
   height: 100%;
   object-fit: cover;
   margin-bottom: 24px;
-  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.3);
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 h1 {
